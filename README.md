@@ -7,7 +7,7 @@
 - Atualmente focado em desenvolvimento de BOTs para Discord.
 
 # 👀 | Sobre Mim
-16 anos, natural de Fortaleza, Ceará. **Co-fundador** e **CEO** da **Exclusive Studio**, empresa focada em desenvolvimento de produtos para [FiveM](https://fivem.net) com excelência e agilidade. Atualmente tenho como principal foco a criação de BOTs para [Discord](https://discord.com).
+16 anos, natural de Fortaleza, Ceará. **Co-fundador** e **CEO** da **Exclusive Studio**, empresa focada em desenvolvimento de produtos para [FiveM](https://fivem.net) e design de marcas, tudo isso com feito com excelência e agilidade por uma equipe qualificada de developers. Atualmente tenho como principal foco a criação de BOTs para [Discord](https://discord.com).
 
 # 🌎 | Como me encontrar
 [![Twitter Badge](https://img.shields.io/badge/-@duduu.nog-000?style=flat-square&labelColor=000&logo=instagram&logoColor=white&link=https://twitter.com/dieegosf)](https://instagram.com/duduu.nog) 
